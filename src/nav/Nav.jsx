@@ -1,12 +1,9 @@
-import React from 'react';
 import banner from '../assets/banner.png';
 import github from '../assets/github.png';
 import linkedin from '../assets/linkedin.png';
 import email from '../assets/email.png';
 import download from '../assets/download.png';
 import resume from '../assets/JanikaHortizuela.pdf';
-import about from '../assets/about.png';
-import projects from '../assets/projects.png';
 
 const Nav = () => {
   return (

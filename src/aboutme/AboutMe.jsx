@@ -5,7 +5,7 @@ import janika from '../assets/profile.jpeg'
 import arrow from '../assets/arrow.png'
 import { Link } from 'react-router-dom'
 
-export const AboutMe = () => {
+const AboutMe = () => {
   return (
     <section className="aboutme-container">
       <h1 className="h1-aboutme"><img className="banner-about" src={banner} alt="janika codes things written badly" /></h1>
@@ -43,3 +43,5 @@ export const AboutMe = () => {
     </section>
   )
 }
+
+export default AboutMe;
