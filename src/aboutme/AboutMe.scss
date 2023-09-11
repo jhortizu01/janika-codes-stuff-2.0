@@ -1,70 +1,31 @@
-.aboutme-container {
-  font-size: 50px;
-  height: auto;
-  align-items: center;
-  margin: 0px;
-}
+.aboutme {
+  &-banner {
+    width: 100%;
+    height: auto;
+  }
 
-.banner-about {
-  width: 1000px;
-  height: 200px;
-}
+  &-goback {
+    width: 25%;
+    margin-top: 20px;
+  }
 
-.h1-aboutme {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
+  section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+    
+    img {
+      width: 25%;
+      border-radius: 50%;
+      border: solid #FA77B7 10px;
+    }
+  }
 
-.about-about {
-  height: 100px;
-  width: 250px;
-  margin-top: 0px;
-  transform: rotate(5deg);
-}
-
-.janika {
-  height: auto;
-  width: 500px;
-  margin-top: 0px;
-  margin-bottom: 10px;
-  border-radius: 50%;
-  border: solid black 5px;
-}
-
-.about-moi {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.words-me {
-  font-size: 20px;
-  width: 75%;
-}
-
-.arrow {
-  height: 50px;
-  width: auto;
-  margin-top: 25px;
-}
-
-.aboutme-box {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.grilled-cheese {
-  text-align: center;
-}
-
-.story {
-  margin: 0px;
-}
-
-.img-about {
-  margin: 0px;
+  p {
+    width: 50%;
+    height: auto;
+  }
 }
