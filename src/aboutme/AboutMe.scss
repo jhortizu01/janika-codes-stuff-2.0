@@ -19,16 +19,28 @@
     justify-content: center;
     width: 100%;
     margin-top: 20px;
+    @media (max-width: 500px) {
+      flex-direction: column;
+    }
     
     img {
       width: 25%;
       border-radius: 50%;
       border: solid #FA77B7 10px;
+      @media (max-width: 500px) {
+        width: 50%;
+      }
     }
   }
 
   p {
-    width: 50%;
+    width: 40%;
     height: auto;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 20px;
+
+    @media (max-width: 500px) {
+      width: 75%;
+    }
   }
 }
