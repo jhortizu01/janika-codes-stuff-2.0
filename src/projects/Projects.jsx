@@ -20,22 +20,22 @@ import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
 const Projects = () => {
-
-
   const CustomRight = ({ onClick }) => (
     <button className="arrow right" onClick={onClick}>
       <img src={carouselarrow} />
     </button>
   );
+
   const CustomLeft = ({ onClick }) => (
     <button className='arrow left' onClick={onClick} >
       <img src={carouselarrow} />
     </button>
   );
+
   return (
     <div className='projects'>
       <img src={banner} alt='janika codes stuff' className='banner' />
-    <img src={projects} alt='projects' />
+    <img src={projects} alt='projects' className='projects'/>
       <Link to='/'>
         <img src={goback} alt='go back' className='goback' />
       </Link>
@@ -46,6 +46,7 @@ const Projects = () => {
         arrows={true}
         customRightArrow={<CustomRight />}
         customLeftArrow={<CustomLeft />}
+
       >
         <div className='project'>
           <img src={twitterapi} />
