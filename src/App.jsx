@@ -8,19 +8,6 @@ import Projects from './projects/Projects';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
 const App = () => {
-  const [aboutData, setAboutData] = useState({});
-  const fetchRequest = () => {
-    fetch('https://api.github.com/users/jhortizu01')
-      .then((response) => response.json())
-      .then((data) => setAboutData(data))
-      .catch((error) => console.log(error));
-  };
-
-  useEffect(() => {
-    fetchRequest();
-  }, []);
-
-  console.log(aboutData);
   return (
     <Router>
       <Routes>
@@ -48,7 +35,7 @@ const App = () => {
         <Route
           path='/aboutme'
           element={
-            <AboutMe bio={aboutData.bio} avatar={aboutData.avatar_url} />
+            <AboutMe />
           }
         />
         <Route path='/projects' element={<Projects />} />
