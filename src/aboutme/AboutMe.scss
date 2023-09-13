@@ -7,9 +7,16 @@
     height: auto;
   }
 
-  &-goback {
-    width: 50%;
-    margin-top: 20px;
+  a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    .aboutme-goback {
+      width: 50%;
+      margin-top: 20px;
+      display: flex;
+    }
   }
 
   section {
