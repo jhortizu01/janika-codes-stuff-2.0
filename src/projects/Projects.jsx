@@ -38,7 +38,7 @@ const Projects = () => {
       >
         {data.map((item) => {
           return (
-            <a href={item.link}>
+            <a href={item.link} target="_blank">
               <div className='project'>
                 <img src={item.image} />
                 <img src={item.title} alt='link to twitter api' />
