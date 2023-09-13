@@ -22,7 +22,7 @@ export const data = [
   {
     title: twitterapitext,
     image: twitterapi,
-    link: 'https://github.com/fasttrackd-student-work/spring-assessment-social-media-sprint-7-2023-team-3',
+    link: 'https://github.com/jhortizu01/twitter_api',
   },
   {
     title: rossotext,
