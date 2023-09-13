@@ -27,16 +27,15 @@ projects.
 ## Illustrations
 
 Home Page:
-
-![Screen Recording 2023-09-13 at 11 02 44 AM](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/8dbd0400-01d7-4fce-8edd-27443bb69c42)
+![Screen Recording 2023-09-13 at 11 02 44 AM (1)](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/29b7b1cd-97af-4b79-8ae3-b14072719826)
 
 About Me:
+![Screen Recording 2023-09-13 at 11 08 12 AM](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/22f952a6-c803-4de5-b31e-738635efee80)
 
-![Screen Recording 2023-09-13 at 11 03 08 AM](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/e9b14c45-719d-49e1-a2af-19e368665072)
 
 Projects:
 
-![Screen Recording 2023-09-13 at 11 03 20 AM](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/49b855a0-e4ac-4c2d-bbf8-dd85e137d71b)
+![Screen Recording 2023-09-13 at 11 03 20 AM (1)](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/9574d92b-10b0-4942-8fdb-192770107f82)
 
 
 ## Future Features
