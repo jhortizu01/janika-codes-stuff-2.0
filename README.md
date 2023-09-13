@@ -1,4 +1,5 @@
 Janika Codes Stuff
+
 [Deployed Webpage Here](https://janika-codes-stuff.netlify.app/)
 
 ## Table of Contents
@@ -27,9 +28,16 @@ projects.
 
 Home Page:
 
+![Screen Recording 2023-09-13 at 11 02 44 AM](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/8dbd0400-01d7-4fce-8edd-27443bb69c42)
+
 About Me:
 
+![Screen Recording 2023-09-13 at 11 03 08 AM](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/e9b14c45-719d-49e1-a2af-19e368665072)
+
 Projects:
+
+![Screen Recording 2023-09-13 at 11 03 20 AM](https://github.com/jhortizu01/janika-codes-stuff-2.0/assets/21073095/49b855a0-e4ac-4c2d-bbf8-dd85e137d71b)
+
 
 ## Future Features
 
